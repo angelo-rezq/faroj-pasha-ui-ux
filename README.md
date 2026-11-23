@@ -7,6 +7,12 @@ A full restaurant management interface designed and built by **Angelo Rezq**. Th
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38B2AC?logo=tailwindcss&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-4-FF6384?logo=chartdotjs&logoColor=white)
 
+## Demo walkthrough
+
+A full walkthrough of the working system, from sign-in through orders, production and reports:
+
+https://github.com/user-attachments/assets/96bbba16-b21c-4043-8473-e324b1cd1a99
+
 ## What's inside
 
 - **Point of sale / orders** — take orders, track their status, and move them through preparation.
